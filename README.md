@@ -7,7 +7,7 @@ Um dos nossos objetivos é transcrever o código para Python e evoluir o aplicat
 - ***Portugol***
 - ***Python***
 
-======================================================================================================
+================================================================================================
 MEMORANDO DE ENTENDIMENTO (MoU)
 Por este instrumento particular, as Partes abaixo qualificadas:
 Massaki Feliciano Mogi, [Nacionalidade], [Estado Civil], Desenvolvedor Full Stack e Designer de Interface, portador do RG nº [•] e CPF nº [•], residente em [Endereço Completo];
