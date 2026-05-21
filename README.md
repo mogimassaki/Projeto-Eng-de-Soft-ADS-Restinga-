@@ -29,7 +29,7 @@ Kevin Farias: Responsável pelo desenvolvimento Back-end e arquitetura de servid
 Todo e qualquer ativo criado para o Digital Gym — incluindo linhas de código, telas, marcas, textos, bancos de dados e regras de negócio — pertence unicamente ao projeto em comum.
 Caso uma empresa (CNPJ) seja constituída no futuro, todas as Partes se obrigam a transferir integralmente esses direitos para a nova sociedade, sem qualquer custo adicional.
 4. DA PARTICIPAÇÃO SOCIETÁRIA FUTURA
-Caso o projeto atinja viabilidade comercial e resulte na abertura de uma empresa jurídica, a divisão inicial de quotas ou ações entre os integrantes seguirá a proporção rigidamente igualitária de:
+Caso o projeto atinja viabilidade comercial e resulte na abertura de uma empresa jurídica, a divisão inicial de quotas ou ações entre os integrantes seguirá a proporção de:
 Massaki Feliciano Mogi: 96% (noventa e seis por cento) de participação.
 Pablo Luis Machado de Souza: 1% (um por cento) de participação.
 Lucas Moura: 1% (um por cento) de participação.
