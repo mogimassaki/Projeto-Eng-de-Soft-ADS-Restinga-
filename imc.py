@@ -36,6 +36,9 @@ for i in range(1, 4):
     print(f"===Aluno {i}===")
     nome = input("Nome: ")
     peso = float(input("Peso (ex: 80): "))
+    while peso <= 0:
+    print("Peso inválido!")
+    peso = float(input("Digite novamente: "))
     altura = float(input("Altura (ex: 1.80): "))
     aulas = int(input("Aulas no mês: "))
     imc = calcular_imc(peso, altura)
