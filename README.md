@@ -25,7 +25,7 @@ Transporte público: Utilizado em catracas de metrô e ônibus, permitindo o pag
 Compartilhamento de dados: Envio de contatos, fotos e links entre dois celulares bastando encostá-los.
 Automação (Tags NFC): Etiquetas adesivas programadas para executar ações no celular automaticamente (ex: ativar o modo silencioso ao encostar na mesa de cabeceira).
 
-===============================================================================
+===============================================================================================
 MEMORANDO DE ENTENDIMENTO (MoU)
 Por este instrumento particular, as Partes abaixo qualificadas:
 Massaki Feliciano Mogi, [Nacionalidade], [Estado Civil], Desenvolvedor Full Stack e Designer de Interface, portador do RG nº [•] e CPF nº [•], residente em [Endereço Completo];
