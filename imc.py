@@ -29,7 +29,7 @@ def mensagem_motivacional(class_imc):
     if class_imc == "Peso normal":
         return "Excelente trabalho! Continue mantendo seus hábitos saudáveis."
     else:
-        return "Foco e constância! Cada treino aproxima você do seu objetivo."
+        return "Foco e constância! Cada treino aproxima você do seu objetivo!!!!!"
 
 
 # ALTERAÇÃO: Adicionado o parâmetro 'motivacao' na assinatura da função
