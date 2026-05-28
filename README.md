@@ -6,6 +6,7 @@ Um dos nossos objetivos é transcrever o código para Python e evoluir o aplicat
 🚀 Tecnologias Utilizadas
 - ***Portugol***
 - ***Python***
+
 Digital Gym tem como proposito suprir tanto a necessidade dos usuário responsáveis por administrar academias com sua versão desktop como ajudar seus clientes a usufruir  ao máximo dos seus treinos dando um suporte e uma experiencia jamais vista.
 Nosso foco é a interação dos alunos juntando todo recurso tecnológico disponíveis para um rendimento aprimorado.
 Um dos requisitos é a implementação de uma rede social alternativa a qual seria possível atualizar alguns termos apenas estando no ambiente de treino. Seria como um facebook o qual algumas de suas postagens, atualização e funcionalidade seria possível apenas estando nas dependências da academia.
