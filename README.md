@@ -6,8 +6,25 @@ Um dos nossos objetivos é transcrever o código para Python e evoluir o aplicat
 🚀 Tecnologias Utilizadas
 - ***Portugol***
 - ***Python***
+Digital Gym tem como proposito suprir tanto a necessidade dos usuário responsáveis por administrar academias com sua versão desktop como ajudar seus clientes a usufruir  ao máximo dos seus treinos dando um suporte e uma experiencia jamais vista.
+Nosso foco é a interação dos alunos juntando todo recurso tecnológico disponíveis para um rendimento aprimorado.
+Um dos requisitos é a implementação de uma rede social alternativa a qual seria possível atualizar alguns termos apenas estando no ambiente de treino. Seria como um facebook o qual algumas de suas postagens, atualização e funcionalidade seria possível apenas estando nas dependências da academia.
+Outra funcionalidade seria o Status de treino. Todos os usuários da academia poderia ter o acesso ao perfil simplificado do seu colega,  sendo possível ter acesso a seu status em tempo real.
+Nesse status o usuário teria acesso a informações do plano de treino de que ele esta fazendo, objetivos, carga usada nos aparelhos e se ele esta disponível a treinar com outros colegas. Também teria a opção não perturbe a qual mostraria a todos os outros usuário que ele não está disponível em interagir.
+Tecnologia NFC
+Esse tipo de tecnologia tem por objetivo facilitar o acesso e a identificação do usuário para ingressar na academia.
+NFC (Near Field Communication) é uma tecnologia de comunicação por proximidade que permite a troca de dados sem fio entre dispositivos compatíveis a curta distância (de 5 a 10 cm). Ela é usada para pagamentos por aproximação, transporte público e pareamento instantâneo. 
 
-================================================================================================
+Como Funciona
+A tecnologia funciona por radiofrequência e dispensa a necessidade de senhas ou internet para a comunicação básica. A troca de informações ocorre entre um dispositivo ativo (como um smartphone ou maquininha) e um passivo (como um cartão ou tag NFC). Ela se destaca por ser extremamente ágil e segura, utilizando criptografia para proteger os dados transmitidos. 
+
+Principais Usos
+Pagamentos por aproximação: Substitui o uso do cartão físico ao transformar o seu celular em uma carteira digital (Apple Pay, Google Pay, Samsung Pay).
+Transporte público: Utilizado em catracas de metrô e ônibus, permitindo o pagamento direto com o celular ou relógio inteligente.
+Compartilhamento de dados: Envio de contatos, fotos e links entre dois celulares bastando encostá-los.
+Automação (Tags NFC): Etiquetas adesivas programadas para executar ações no celular automaticamente (ex: ativar o modo silencioso ao encostar na mesa de cabeceira).
+
+===============================================================================
 MEMORANDO DE ENTENDIMENTO (MoU)
 Por este instrumento particular, as Partes abaixo qualificadas:
 Massaki Feliciano Mogi, [Nacionalidade], [Estado Civil], Desenvolvedor Full Stack e Designer de Interface, portador do RG nº [•] e CPF nº [•], residente em [Endereço Completo];
